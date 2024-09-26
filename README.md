@@ -122,7 +122,7 @@ For collaboration or inquiries, feel free to reach out.
 - *Email*: [saraeldamarany@gmail.com](mailto:khatermedo664@gmail.com)  
 - *LinkedIn*: [Sara Eldamarany](https://www.linkedin.com/in/saraeldamarany/)
 
- --- 
+   --- 
 
 - *Name*: Manar Alaa  
 - *Email*: [Manaralaa962@gmail.com](mailto:Manaralaa962@gmail.com)  
