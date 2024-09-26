@@ -102,6 +102,10 @@ The dataset provides an in-depth view of mortality causes, enabling rich explora
 
 ### Visualizations  
 - Interactive visualizations, such as comparative death rates and time trends, were created for better understanding.
+## Reports:
+Reports were created to effectively communicate the insights and finding from the data analysis.
+
+![Global Health Analysis](https://github.com/SaraEldamarany/Global-Health-Insights-Analysis-Causes-of-Death-Interactive-Dashboard-PowerBi-Part-3-/blob/main/powerbi_dashboard.png)
 
 ## Conclusion  
 This project provided crucial insights into global health trends, particularly the rise of cardiovascular diseases. Power BI proved to be a powerful tool for data manipulation, visualization, and dynamic analysis, offering a user-friendly interface to explore data interactively.
@@ -111,11 +115,21 @@ This project provided crucial insights into global health trends, particularly t
 - Implement machine learning models for predictive analysis on mortality trends.
 - Use Power BI’s **AI Insights** to extract more predictive insights.
 
-## Contact  
+## Contact  Our Team
 For collaboration or inquiries, feel free to reach out.
 
-*Name*: Sara ELdamarany  
-*Email*: [saraeldamarany@gmail.com](mailto:khatermedo664@gmail.com)  
-*LinkedIn*: [Sara Eldamarany](https://www.linkedin.com/in/saraeldamarany/)
+- *Name*: Sara ELdamarany  
+- *Email*: [saraeldamarany@gmail.com](mailto:khatermedo664@gmail.com)  
+- *LinkedIn*: [Sara Eldamarany](https://www.linkedin.com/in/saraeldamarany/)
+
+- *Name*: Manar Alaa  
+- *Email*: [Manaralaa962@gmail.com](mailto:Manaralaa962@gmail.com)  
+- *LinkedIn*: [Manar Alaa](https://www.linkedin.com/in/manar-alaa-1787211b0/)
+
+- *Name:* Ahmed Khater
+- *Email:* [khatermedo664@gmail.com]
+- *LinkedIn:* [Ahmed Khater](https://www.linkedin.com/in/ahmed-khater-1bb2a324a)
+
+
 
 
