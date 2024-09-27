@@ -130,9 +130,9 @@ For collaboration or inquiries, feel free to reach out.
 
    ---
 
-- *Name:* Ahmed Khater
-- *Email:* [khatermedo664@gmail.com]
-- *LinkedIn:* [Ahmed Khater](https://www.linkedin.com/in/ahmed-khater-1bb2a324a)
+- *Name*: Ahmed Khater
+- *Email*: [khatermedo664@gmail.com]
+- *LinkedIn*: [Ahmed Khater](https://www.linkedin.com/in/ahmed-khater-1bb2a324a)
 
 
 
